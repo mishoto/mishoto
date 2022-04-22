@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishoto
-- 👀 I’m interested in JAVA TYPESCRIPT SQL NOSQL respectively SPRING ANGULAR MYSQL MONGO
-- 🌱 I’m currently learning JAVA and SPRING
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working on a project with Node JS, Sequelize, Postgres and React
 - 💞️ I’m looking for a job as a junior developer
 - 📫 You can reach me at mihail.dev.io@gmail.com
 
