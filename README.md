@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mishoto
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on a project with Node JS, Sequelize, Postgres and React
-- 💞️ I’m looking for a job as a junior developer
+
+- 👀 Hi, I’m interested in fullstack web development
+- 🌱 Currently working on a project with React && React Native
+- 💞️ Looking for a job as a junior developer
 - 📫 You can reach me at mihail.dev.io@gmail.com
 
 <!---
