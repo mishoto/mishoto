@@ -1,7 +1,7 @@
 
-                                                               - 👀 Hi, I’m interested in fullstack web development
+- 👀 Hi, I’m interested in fullstack web development
 - 🌱 Currently working on a project with React && React Native
-                                                               - 💞️ Looking for a job as a junior developer
+- 💞️ Looking for a job as a junior developer
 - 📫 You can reach me at mihail.dev.io@gmail.com
 
 <!---
